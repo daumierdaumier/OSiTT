@@ -1,10 +1,14 @@
-# SOURCE AVAILABLE RESEARCH LICENSE (v0.1)
+# SOURCE AVAILABLE RESEARCH LICENSE AGREEMENT (v0.1)
 
 ## 1. Definitions
-* **"Licensor"** means the University and its faculty/researchers who authored the Software.
+* **"Licensor"** means [[insert legal name of intellectual property owner]].
 * **"Software"** means the source code, object code, and associated documentation made available under this License.
-* **"Use"** means to copy, modify, distribute, or perform the Software, and specifically includes the exercise of all **copyright and patent rights** held by the Licensor in the Software.
+* **"Use"** means to copy, modify, distribute, or perform the Software, and specifically includes the exercise of all
+* **IP** means (a) all copyrights in the Software owned by Licensor held by the Licensor in the Software and (b) all rights in any claim of any patent owned by Licensor that are require..... .
 * **"Commercial Use"** means any use of the Software by a for-profit entity or any use intended for commercial advantage or monetary compensation.
+
+## 2. Acceptance.
+By Using the Software, you agree to all of the terms and conditions of this agreement.
 
 ## 2. Grant of Rights
 Subject to the terms of this License, Licensor hereby grants you a non-exclusive, royalty-free, worldwide license to Use the Software for non-commercial, academic, and research purposes only.
