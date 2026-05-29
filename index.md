@@ -542,7 +542,7 @@ description: Resources for understanding open source software as technology tran
       <div class="resource-author">Edited by Amanda Brock, Second Edition</div>
     </div>
     <p class="resource-desc">A comprehensive reference covering the legal and policy dimensions of open source software, including licensing, governance, and the intersection of open source with institutional and commercial practice.</p>
-    <a href="docs/Open_Source_Law,_Policy,_and_Practice.pdf" class="resource-link" target="_blank">Download PDF →</a>
+    <a href="https://academic.oup.com/book/44727" class="resource-link" target="_blank">Download PDF →</a>
   </div>
 
   <div class="resource-card">
