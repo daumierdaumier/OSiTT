@@ -512,7 +512,7 @@ description: Resources for understanding open source software as technology tran
       <div class="resource-author">Forbes, Iyer & Wichmann, 2026</div>
     </div>
     <p class="resource-desc">The foundational OSiTT working group paper proposing a framework for incorporating open source into TTO operations and a first set of metrics to measure open source technology transfer activity.</p>
-    <a href="/docs/20260129_Standardizing_Open_Source_Impact_Metrics.pdf" class="resource-link" target="_blank">Download PDF →</a>
+    <a href="docs/Standardizing_Open_Source_Impact_Metrics.pdf" class="resource-link" target="_blank">Download PDF →</a>
   </div>
 
   <div class="resource-card">
