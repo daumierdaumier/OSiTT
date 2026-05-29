@@ -552,7 +552,7 @@ description: Resources for understanding open source software as technology tran
       <div class="resource-author">Steve H. Lee</div>
     </div>
     <p class="resource-desc">A focused guide to open source software licensing, covering the major license types, their practical implications, and how organizations can navigate licensing decisions for their open source projects.</p>
-    <a href="/docs/Open_Source_Software_Licensing_by_Steve_H__Lee.pdf" class="resource-link" target="_blank">Download PDF →</a>
+    <a href="docs/Open_Source_Software_Licensing.pdf" class="resource-link" target="_blank">Download PDF →</a>
   </div>
 
 </div>
