@@ -433,6 +433,130 @@ description: Resources for understanding open source software as technology tran
   </div>
 </div>
 
+<style>
+  .resource-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
+    gap: 20px;
+    margin-top: 32px;
+    margin-bottom: 60px;
+  }
+
+  .resource-card {
+    background: white;
+    padding: 28px;
+    box-shadow: 0 2px 16px rgba(13,33,55,0.06);
+    border-left: 3px solid #0d6e6e;
+    display: flex;
+    flex-direction: column;
+    gap: 12px;
+  }
+
+  .resource-type {
+    font-size: 0.72rem;
+    letter-spacing: 0.15em;
+    text-transform: uppercase;
+    color: #0d6e6e;
+    font-weight: 300;
+  }
+
+  .resource-title {
+    font-family: 'Playfair Display', serif;
+    font-size: 1.05rem;
+    font-weight: 700;
+    color: #0d2137;
+    line-height: 1.3;
+  }
+
+  .resource-author {
+    font-size: 0.82rem;
+    color: #888;
+    font-weight: 300;
+    font-style: italic;
+  }
+
+  .resource-desc {
+    font-size: 0.88rem;
+    line-height: 1.7;
+    color: #4a4a5a;
+    font-weight: 300;
+    flex-grow: 1;
+  }
+
+  .resource-link {
+    display: inline-block;
+    font-size: 0.8rem;
+    font-weight: 600;
+    letter-spacing: 0.08em;
+    text-transform: uppercase;
+    color: #0d6e6e;
+    text-decoration: none;
+    border-bottom: 1px solid #0d6e6e;
+    padding-bottom: 1px;
+  }
+
+  .resource-link:hover { color: #0d2137; border-color: #0d2137; text-decoration: none; }
+</style>
+
+<span class="section-label">Reference Library</span>
+<h2 class="section-title">Key Documents & Resources</h2>
+
+<p class="section-body">A curated collection of foundational texts on open source software, licensing, and technology transfer.</p>
+
+<div class="resource-grid">
+
+  <div class="resource-card">
+    <div>
+      <div class="resource-type">Position Paper</div>
+      <div class="resource-title">Standardizing Open Source Impact Metrics: A Framework for Academic Technology Transfer Offices</div>
+      <div class="resource-author">Forbes, Iyer & Wichmann, 2026</div>
+    </div>
+    <p class="resource-desc">The foundational OSiTT working group paper proposing a framework for incorporating open source into TTO operations and a first set of metrics to measure open source technology transfer activity.</p>
+    <a href="/docs/20260129_Standardizing_Open_Source_Impact_Metrics.pdf" class="resource-link" target="_blank">Download PDF →</a>
+  </div>
+
+  <div class="resource-card">
+    <div>
+      <div class="resource-type">Workshop Report</div>
+      <div class="resource-title">Sustaining Open Source Software in the Research Enterprise</div>
+      <div class="resource-author">Ithaka S+R, 2026</div>
+    </div>
+    <p class="resource-desc">Findings from a one-day workshop exploring how research institutions can better support the sustainability of open source software critical to the scholarly enterprise.</p>
+    <a href="https://sr.ithaka.org/wp-content/uploads/2026/03/SR-Brief-Sustaining-Open-Source-Software-in-the-Research-Enterprise.03.25.26-1.pdf" class="resource-link" target="_blank">Download PDF →</a>
+  </div>
+
+  <div class="resource-card">
+    <div>
+      <div class="resource-type">Framework</div>
+      <div class="resource-title">Open Source Archetypes: A Framework for Purposeful Open Source</div>
+      <div class="resource-author">Open Tech Strategies, Version 2.0, 2019</div>
+    </div>
+    <p class="resource-desc">A practical framework for understanding different types of open source projects — from B2B and Multi-Vendor Infrastructure to Wide Open and Trusted Vendor — and how to choose the right archetype for your goals.</p>
+    <a href="https://opentechstrategies.com/archetypes-files/open-source-archetypes-v2.pdf" class="resource-link" target="_blank">Download PDF →</a>
+  </div>
+
+  <div class="resource-card">
+    <div>
+      <div class="resource-type">Book</div>
+      <div class="resource-title">Open Source Law, Policy and Practice</div>
+      <div class="resource-author">Edited by Amanda Brock, Second Edition</div>
+    </div>
+    <p class="resource-desc">A comprehensive reference covering the legal and policy dimensions of open source software, including licensing, governance, and the intersection of open source with institutional and commercial practice.</p>
+    <a href="/docs/Open_Source_Law__Policy__and_Practice.pdf" class="resource-link" target="_blank">Download PDF →</a>
+  </div>
+
+  <div class="resource-card">
+    <div>
+      <div class="resource-type">Book</div>
+      <div class="resource-title">Open Source Software Licensing</div>
+      <div class="resource-author">Steve H. Lee</div>
+    </div>
+    <p class="resource-desc">A focused guide to open source software licensing, covering the major license types, their practical implications, and how organizations can navigate licensing decisions for their open source projects.</p>
+    <a href="/docs/Open_Source_Software_Licensing_by_Steve_H__Lee.pdf" class="resource-link" target="_blank">Download PDF →</a>
+  </div>
+
+</div>
+
 <div class="about-strip">
   <div>
     <h2>About This Project</h2>
